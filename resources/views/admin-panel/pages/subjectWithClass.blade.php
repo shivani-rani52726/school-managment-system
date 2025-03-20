@@ -1,4 +1,4 @@
-@extends('admin-panel.index')
+ @extends('admin-panel.index')
 
 @section('admin-panel')
     <!-- Main Container -->
